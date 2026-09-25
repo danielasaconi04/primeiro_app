@@ -57,3 +57,5 @@ if st.button("Calcular", type="primary", use_container_width=True):
         # Exibição estilizada em grande destaque
         st.metric(label="Resultado", value=f"{resultado:.2f}")
         st.success(f"Cálculo realizado com sucesso: {num1} {simbolo} {num2} = {resultado:.2f}")
+
+#Feito
